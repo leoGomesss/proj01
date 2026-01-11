@@ -66,16 +66,3 @@ footer p{
         width: 90%;
     }
 }
-
-@media (max-width: 480px){
-    .contanier-img img{
-        width: 200px;
-        height: 100px;
-    }
-}
-
-@media (max-width: 480px){
-    .p{
-        font-size: 0.4em;
-    }
-}
