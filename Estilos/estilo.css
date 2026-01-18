@@ -67,7 +67,7 @@ footer p{
 }
 @media(max-width: 480px){
     span{
-        padding: 1px 7px 1px 0;
+        padding: 1px 1px 1px 0;/*ajuste*/
 }
 }
 
@@ -98,12 +98,6 @@ footer p{
     p{
         font-size: 0.8em;
     }
-}
-
-@media(max-width: 480px){
-    span{
-        padding: 7px;
-}
 }
 
 @media (max-width: 480px){
