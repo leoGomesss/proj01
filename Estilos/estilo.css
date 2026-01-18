@@ -54,7 +54,7 @@ footer {
     align-items: center;
     flex-flow: row nowrap;
     margin-bottom: 30px;
-    gap: 7px;
+    gap: 4px;
 }
 footer p{
     padding-top: 13%;
@@ -75,14 +75,14 @@ footer p{
 }
 @media(max-width: 480px){
     .learning-p{
-        padding: 0 14px 0 0;/*ajuste*/
+        padding: 0 14px 0 0;
 }
 }
 
 @media (max-width: 480px){
     .contanier{
-        width: 60%; /*Antigo 90%*/
-        margin-top: 40%;
+        width: 60%; 
+        margin-top: 35%;
     }
 }
 
