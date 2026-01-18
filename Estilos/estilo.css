@@ -100,9 +100,16 @@ footer p{
     }
 }
 
+@media(max-width: 480px){
+    footer p{
+        padding: 7px;
+}
+}
+
 @media (max-width: 480px){
     .greg{
         width: 54px;
     }
 }
+
 
