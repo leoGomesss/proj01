@@ -63,7 +63,7 @@ footer p{
 
 @media (max-width: 480px){
     .contanier{
-        width: 90%;
+        width: 60%; /*Antigo 90%*/
     }
 }
 
