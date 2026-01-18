@@ -60,18 +60,25 @@ footer p{
     font-weight: bold;
     text-shadow: 1px 1px 2px #000000;
 }
+@media(max-width: 480px){
+    .contanier p, span, h2, footer{
+        align-self: flex-start;
+        margin-left: 10px;
+        font-family: principal;
+}
+}
 @media (max-width: 480px){
     body{
         margin: 0;
     }
 }
 @media(max-width: 480px){
-    span{
+    .learning{
         padding: 0;/*ajuste*/
 }
 }
 @media(max-width: 480px){
-    span p{
+    .learning p{
         text-align: center;
         padding-right: 50%;
 }
