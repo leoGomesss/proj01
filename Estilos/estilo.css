@@ -68,7 +68,7 @@ footer p{
 }
 
 @media (max-width: 480px){
-    .contanier img {
+    .contanier-img img {
         display: flex;
         justify-content: center;
         align-items: center;
