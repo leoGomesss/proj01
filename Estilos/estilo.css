@@ -64,6 +64,7 @@ footer p{
 @media (max-width: 480px){
     .contanier{
         width: 60%; /*Antigo 90%*/
+        margin-top: 30px;
     }
 }
 
@@ -72,7 +73,7 @@ footer p{
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 30%;
+        width: 10px;
 }
 }
 
