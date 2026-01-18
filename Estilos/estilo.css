@@ -67,7 +67,7 @@ footer p{
 }
 @media(max-width: 480px){
     span{
-        padding: 1px 1px 1px 0;/*ajuste*/
+        padding: 0;/*ajuste*/
 }
 }
 
