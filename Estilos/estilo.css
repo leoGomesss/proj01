@@ -69,7 +69,7 @@ footer p{
 
 @media (max-width: 480px){
     .contanier-img img{
-        width: 28%;
+        width: 30%; /*Antigo 28%*/
         margin: 10px auto;
     }
 }
