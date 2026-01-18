@@ -83,7 +83,7 @@ footer p{
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 170px;
+        width: 190px;
 }
 }
 
@@ -100,5 +100,9 @@ footer p{
     }
 }
 
-
+@media (max-width: 480px){
+    .greg{
+        width: 40px
+    }
+}
 
