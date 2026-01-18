@@ -68,6 +68,14 @@ footer p{
 }
 
 @media (max-width: 480px){
+    .contanier img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+}
+
+@media (max-width: 480px){
     h2{
         font-size: 0.8em;
 
