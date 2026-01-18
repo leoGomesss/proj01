@@ -78,7 +78,7 @@ footer p{
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 380px;
+        width: 280px;
 }
 }
 
@@ -97,7 +97,7 @@ footer p{
 
 @media(max-width: 480px){
     .greg{
-        width: 7px;
+        width: 14px;
     }
 }
 
