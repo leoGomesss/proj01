@@ -63,7 +63,7 @@ footer p{
 @media(max-width: 480px){
     .contanier p, span, h2, footer{
         align-self: flex-start;
-        margin-left: 30px;
+        margin-left: 37px;
         font-family: principal;
 }
 }
@@ -73,7 +73,7 @@ footer p{
     }
 }
 @media(max-width: 480px){
-    .learning{
+    .learning-p{
         padding: 0 4px 0 0;/*ajuste*/
 }
 }
