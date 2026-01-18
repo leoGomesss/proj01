@@ -54,6 +54,7 @@ footer {
     align-items: center;
     flex-flow: row nowrap;
     margin-bottom: 30px;
+    gap: 7px;
 }
 footer p{
     padding-top: 13%;
@@ -63,7 +64,7 @@ footer p{
 @media(max-width: 480px){
     .contanier p, span, h2, footer{
         align-self: flex-start;
-        margin-left: 37px;
+        margin-left: 20px;
         font-family: principal;
 }
 }
@@ -74,7 +75,7 @@ footer p{
 }
 @media(max-width: 480px){
     .learning-p{
-        padding: 0 4px 0 0;/*ajuste*/
+        padding: 0 14px 0 0;/*ajuste*/
 }
 }
 
