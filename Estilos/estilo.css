@@ -101,7 +101,7 @@ footer p{
 }
 
 @media(max-width: 480px){
-    footer p{
+    span{
         padding: 7px;
 }
 }
