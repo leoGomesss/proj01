@@ -78,20 +78,26 @@ footer p{
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 70px;
+        width: 120px;
 }
 }
 
 @media (max-width: 480px){
     h2{
-        font-size: 1em;
+        font-size: 0.9em;
 
     }
 }
 
 @media (max-width: 480px){
     p{
-        font-size: 0.9em;
+        font-size: 0.8em;
+    }
+}
+
+@media(max-width: 480px){
+    footer img{
+        width: 20px;
     }
 }
 
